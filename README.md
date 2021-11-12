@@ -55,8 +55,9 @@ Provided leadership and direction to project management initiatives. Led EMR int
 ## Tradeglobal - Cincinnati, Ohio -	Apr 2015-Jul 2015
 
 * Global eCommerce solutions: Frontend Integration, Omnichannel-Fulfillment and -IT-solutions, Digital Marketing, global shipping software*
-* 
+
 **Business Analyst**
+
 Managed Client enhancements and projects. Wrote Statements of Work (SOW) for product development.  Developed a New Hire Onboarding strategy.  Executed array of marketing strategy, branding, and positioning of Aioma’s content marketing software. Focused on content marketing, lead generation, and performance marketing KPIs.  Management of technology stack while collaborating with in-house product development. Supported the Sales and Customer Success team in developing and optimizing processes and templates. 
 
 ### Key Achievements
@@ -68,6 +69,7 @@ Charged with accountability for managing externa client enhancements and project
 *Founded in 2013, RealPage, Inc. provides products and services to the multifamily real estate industries. The Company offers applicant screening, accounting, budgeting, property management, and compliance reporting solutions. RealPage also develops and delivers proprietary web-based applications that enhance client information management capabilities.*
 
 **Test Engineer III**
+
 Performed testing on features and architecture changes. Partnered with project management team to prioritize work.  ScrumMaster for Agile team and drove Agile Stand-Up meetings.  
 Provided 24/7 support in IT, enterprise software, and revenue cycle services for over 30 clients in multiple states. Served as next level escalation point for clients, account managers, and project managers.  Drove enterprise software sales projects across Sales, Marketing, Operations, Account Executives, Training, Leadership, and Executive teams. Optimized pre- and post-sales using metrics, follow up, and change management process to up-sell, product adoption, exceed customer expectations, and build retention.  Frequently served as interim COO and worked with Chief Executive Officer. Set inspirational vision and established clear objectives, corporate development, strategic partnerships, goals, and milestones for company strategy. Led, coached, and mentored 14 direct reports and 21 indirect reports in multiple states. 
 
@@ -80,6 +82,7 @@ Provided 24/7 support in IT, enterprise software, and revenue cycle services for
 - Devised unique team training/bonding exercise that increased productivity by 45%.
 
 **Business Analyst III**
+
 Responsible for planning, building, and monitoring the customer project implementation.  Created the business use cases for the functional requirements and system requirements. Delivered high level support with business case analysis, requirements gathering, and project planning. Translated and simplified requirements.  Performed Customer workflow interviews and requirements sign off.
 
 ### Key Achievements
@@ -87,6 +90,8 @@ Responsible for planning, building, and monitoring the customer project implemen
 - Cultivated strong vendor and client relationships. 
 - Served as a subject matter expert on troubleshooting and problem resolution
 - Researched and implemented Docusign eSignature solution for real estate Inspections.
+
+
 **Developer Analyst**
 
 Triaged the customer support escalations and assisted in prioritizing issues for engineering. Resolved product issues by analyzing and troubleshooting while refraining from escalating to the engineering team. Defined consistent views and processes for support representatives. 
