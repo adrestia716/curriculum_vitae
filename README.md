@@ -1,2 +1,113 @@
-# curriculum_vitae
-My online summary of a my career in technology, qualifications, and education.
+
+# Amanda Troutman
+
+## Software of exceptional quality is my passion. I help talented teams get the right solution delivered the right way. 
+
+Strategic, results-oriented leader with experience in delivering data-driven, innovative, customer-centric products that transform organizations and solve complex business problems. Analytical and emotionally intelligent team leader, adept at building and growing strong business relationships to enhance operational efficiencies.
+
+### Contact Information
+
+[Email](mailto:amandamtroutman@gmail.com) | [Website](https://www.managedbyAmanda.com) | [LinkedIn](https://www.linkedin.com/in/amandamtroutman/) | [Twitter](https://twitter.com/Makoto1joG) |Loveland, OH 
+
+# Digital Transformations Delivered
+
+## Areas of Expertise
+
+Relationship Building • Technical Product Management • Agile Methodologies • Leadership and Team Mentor • Software Documentation and Architecture• Project Planning • Training • Continuous Improvement • Business Continuity • Business & QA Analysis • Client Success • Change Management • Communications • Large Teams
+
+ Can add value to any organization by:
+
+- Leading collaborative teams focused on continuous improvement and project efficiency
+- Building roadmaps for customer success, action plans, and product innovation strategic initiatives
+- Exceptional relationship building, client engagement, and content product management planning
+- Promotes client growth by exceeding delivery project goals, upselling, and exceptional customer experience
+
+## Education
+
+Bachelor of Applied Science (BA) in Japanese and International Economics (w/ 4 month study abroad at **Kansai Gaidai Gaikokugo** in Osaka, Japan), **University of Kentucky**, 2006 
+
+## Certifications
+
+CSPO, Scrum Alliance, Jun 2017
+
+# Work History
+
+## Myriad Genetics - Mason, Ohio - Jul 2015-Oct 2021
+
+*Founded in 1991, Myriad Genetics, Inc., a molecular diagnostic company, develops and markets predictive, personalized, and prognostic medicine tests in the United States and internationally.*
+**Technical Project Manager III**
+Provided leadership and direction to project management initiatives. Led EMR integration with native, homegrown solution. Implemented software updates to support cutting edge science algorithms. Served on the new building design committee and Young Professionals Group as Professional Development VP. 
+
+### Key Achievements
+
+- Directed the implementation of internal facing software improvements to improve productivity for Customer Service, Billing, and Account Management.
+- Executed system re-architecture initiatives to improve system performance and scalability.
+- Introduced process improvements to internal billing that delivered over $2M in additional revenue.
+- Spearheaded Agile process innovation in software development and customer service more the doubling productivity
+- Lead and assisted with the implementation of Salesforce for the enterprise
+- Developed processes for the enterprise Site Reliability Team to better track SLAs, SLOs, and SLIs
+- Lead Enterprise level event storm to assist with a tech wide transformation
+- Supported the implementation of Saltstack Config for major Lab Automation Infrastructure
+- Managed the implementation of the consolidation of Atlassian Products and instant messaging systems to Teams
+
+## Tradeglobal - Cincinnati, Ohio -	Apr 2015-Jul 2015
+
+* Global eCommerce solutions: Frontend Integration, Omnichannel-Fulfillment and -IT-solutions, Digital Marketing, global shipping software*
+**Business Analyst**
+Managed Client enhancements and projects. Wrote Statements of Work (SOW) for product development.  Developed a New Hire Onboarding strategy.  Executed array of marketing strategy, branding, and positioning of Aioma’s content marketing software. Focused on content marketing, lead generation, and performance marketing KPIs.  Management of technology stack while collaborating with in-house product development. Supported the Sales and Customer Success team in developing and optimizing processes and templates. 
+
+### Key Achievements
+
+Charged with accountability for managing externa client enhancements and projects for “The Limited” and “Puma”
+
+## Realpage, Inc. – Mason, Ohio -	Apr 2011-Apr 2015
+
+*Founded in 2013, RealPage, Inc. provides products and services to the multifamily real estate industries. The Company offers applicant screening, accounting, budgeting, property management, and compliance reporting solutions. RealPage also develops and delivers proprietary web-based applications that enhance client information management capabilities.*
+**Test Engineer III**
+Performed testing on features and architecture changes. Partnered with project management team to prioritize work.  ScrumMaster for Agile team and drove Agile Stand-Up meetings.  
+Provided 24/7 support in IT, enterprise software, and revenue cycle services for over 30 clients in multiple states. Served as next level escalation point for clients, account managers, and project managers.  Drove enterprise software sales projects across Sales, Marketing, Operations, Account Executives, Training, Leadership, and Executive teams. Optimized pre- and post-sales using metrics, follow up, and change management process to up-sell, product adoption, exceed customer expectations, and build retention.  Frequently served as interim COO and worked with Chief Executive Officer. Set inspirational vision and established clear objectives, corporate development, strategic partnerships, goals, and milestones for company strategy. Led, coached, and mentored 14 direct reports and 21 indirect reports in multiple states. 
+
+### Key Achievements
+
+- Played a key role in the transition to Agile.
+- Implemented project QA Analysis process, reducing operational redundancies 25% and increased revenue 30%.
+- Optimized information sharing and ticket categorization, and incorporated SLA management to reduce response times by 80%.
+- Effective client retention and growth with SaaS technologies and billing products that maintained average longevity at 5+ years.
+- Devised unique team training/bonding exercise that increased productivity by 45%.
+
+**Business Analyst III**
+Responsible for planning, building, and monitoring the customer project implementation.  Created the business use cases for the functional requirements and system requirements. Delivered high level support with business case analysis, requirements gathering, and project planning. Translated and simplified requirements.  Performed Customer workflow interviews and requirements sign off.
+
+### Key Achievements
+
+- Cultivated strong vendor and client relationships. 
+- Served as a subject matter expert on troubleshooting and problem resolution
+- Researched and implemented Docusign eSignature solution for real estate Inspections.
+**Developer Analyst**
+
+Triaged the customer support escalations and assisted in prioritizing issues for engineering. Resolved product issues by analyzing and troubleshooting while refraining from escalating to the engineering team. Defined consistent views and processes for support representatives. 
+
+### Key Achievements
+
+- Played a key role in identifying solutions for design errors across the platform
+- Ensured the achievement of project goals and deliverables on-time, including new Inspection Module
+- Assisted the Product Support team by providing accurate communication messages regarding product functionality.
+
+## Early Career
+
+QA Analyst – Cincinnati Financial Corporation 
+Software Quality Assurance Analyst – Fidelity Investments | Production Control Coordinator – Fidelity Investments
+
+	
+# Technology Toolbox
+
+Access, Asana Project Task Manager, Amazon Chime, Atlassian, BrickFTP/Files.com, Cisco ,Concur, Confluence, Constant Contact, CRM, DICOM, DR Systems, EDI File Management System, Excel, Expense Sheets, FileZilla SFTP, Github, Google Analytics, GoToMeeting, HL7, HL7 Spy, Jira, JoinMe, Jump Share, Meditech, Microsoft Dynamics, Microsoft Office Suite, Microsoft Teams, MS Office, MS SQL Database, MS-DOS,MS Project, My SQL Database, Node, OneNote, PACS, Peachtree, PowerPoint, QA Testing Software, Salesforce,  SharePoint, Skype, Slack, Smartsheet, SugarCRM, Trello, Visio, WebEx, Windows PowerShell, Word, XML, XML Notepad++
+
+# Comprehensive List of Hard Skills
+
+Account Management, Action, Acquisition, Administration, Agile, Agile Methodologies, Agreements, Analysis, Analytical Skills, Analytics, APIs, Application Design, AR – AP, Auditing, Best Practices, Billing, Brand, Budget Analysis, Business Development, Business Intelligence, Business Metrics, Business Operations, Business Process Improvement, Business Requirements, Business Solutions, Business Strategy, Business Transformations, Business Value, C-Level, Case Management, Certified Scrum Master, Change Management, Churn, Claims Management, Client Management, Client Relationship Management, Cloud, Coaching, Complex Applications, Complex Projects, Compliance, Conflict Resolution, Consulting Experience, Contingency Planning, Continuous Improvement, Contracts, Coordinate, Corporate Strategy, Cost Management, CRM, Cross-functional Teams, Curriculum Development, Customer Advocacy, Customer Engagement, Customer Experience, Customer Facing, Customer Retention, Customer Segmentation, Customer Service Automation, Customer Service Resolution & Recovery, Customer Support, Customer Success Management, Daily Operations, Data Analytics, Data Management, Data Protection, Develop Training, Drive Engagement, Dynamic Environment, Effective, Efficient, EHR, Employee Engagement, Engagement Management, English, Events, Executive Communications, Facilitation, Facts, Finance, Financial Analysis, Financial Reporting, Focus, Forecasting, Gap Analysis, Government, Grants, Growth Strategies, Healthcare, Healthcare Management, Helpdesk, HIPAA, Hiring, HR, Identify, Implementation, Information Management, Infrastructure, Internal Stakeholders, Interoperability, Inventory Management, Issue  Management, IS, IT, Key Account Management, Key Performance Indicators, Knowledge Base, Large Budgets, Large Projects, Maintenance, Management Consulting, Manager, Marketing, Marketing Plans, Marketing Program, Marketing Strategy, Matrix, Metrics, Mission, Multiple Projects, Multi-Site Operations, Needs Assessment, Negotiation, Nonprofit, Office Management, Onboarding, Operations, Operations Excellence, Operational Support, Optimize, Organized, Organizational Analysis, Organizational Development, Performance Improvement, Plan Execution, Policies, Positioning, Presentations, Problem Solving, Process Analysis, Process Design, Process Improvement, Product, Product Capabilities, Product Marketing, Product Roadmap, Profit Improvement, Program Audits, Program Design, Program Development, Program Evaluation, Program Management, Project Coordination, Project Management, Project Planning, Project Risks, Proposal Development, Provider, Provider Onboarding, Public Health, Outreach, Provider Training, Purchasing, Quality Control, Quality Improvement, Rapid Growth, Recruit, Re-engineering, Release Management, Renewals, Reorganization, Report Generation, Requirements, Research, Resource Allocation, Resource Optimization, Restructuring, Results, Retail Operations, Retention, Revenue Forecasting, Revenue Growth, Risk Assessment, Risk & Compliance Management, SaaS, Safety, Sales, Sales Experience, Sales Management, Sales and Marketing, Sales Operations, Sales Support, Satisfaction, Scheduling, Scrum, SDLC, Security, Segmentation, Service Delivery, Service Excellence, Six Sigma, Social Media, Software Delivery Methodologies, Software Development Life Cycle, Software Implementation, Strategic Planning, SOW, Specifications, Spreadsheets, Staffing, Stage, Stakeholder Management, Startup Environment, Strategic Direction, Strategic Partnerships, Strategic Plans, Strategic Roadmaps, Strategy, Support Services, Survey Analysis, Sustainability, SWOT, Teaching, Team Building, Technical Documentation, Technical Support, Technology, Tools, TQM, Training Curriculum, Training and Design Development, Transportation, Travel & Event Planning, Unity, Upsell, Use Cases, User Experience, Value Proposition, Vendor Management, Waterfall, Webinars, Workflows, Workforce Planning, Writer
+
+
+# Comprehensive List of Interpersonal Skills
+
+Ability to Lead, Ability to Juggle, Ability to Travel, Accountable, Adaptable, Assist, Attention To Detail, Build Relationships, Business Leader, Caring, Catalyst, Champion, Client Relations, Client Retention, Client Satisfaction, Coach, Coaching, Cohesive, Collaborate, Collaborating, Collaboration, Collect Data, Comfortable, Committed, Communications Management, Communities, Community Relations, Compassionate, Compelling Stories, C-Level Communication, C-Level Decision Support, C‑Level Relationship Management, Compassionate, Competitive, Conflict Management, Consistency, Consistent, Creative, Cultural Diversity Needs, Culture, Customer Insights, Customer Relationship Management, Customer Retention, Customer Satisfaction Improvements, Customer-centric, Customer Service, Customers, Data Driven, Delegate, Decision Making, Dedicated, Demonstrate,  Dependable, Detail Oriented, Developing Relationships, Diplomacy, Dispute Resolutions, Diversity, Documentation, Drive, Emotional Intelligence, Empathetic, Employee & Vendor Relations, Employee Development, Employee Relations, Employees, Encouraging, Energetic, Engage, Enthusiastic, Entrepreneurial, Excellent Communication, Excellent Writing Skills, Exceptional Organizational Skills, Execution, Executive Leadership, Fast Learner, Flexible, Follow Through, Global Thinking, Goal Setting, Hands On, Hard Working, Helping Others, High Quality, Highly Organized, Honest, Identifying Problems, Impact, Increase Awareness, Influence, Insight, Initiative, Innovative, Inquisitive, Inspire, Inspiring, Integrity, Interpersonal Communication, Judgment, Knowledgeable, Led by Example, Leaders, Leadership Development, Leadership Experience, Listener, Loyal, Manage Multiple Tasks, Management Skills, Meet Customer Needs, Mentoring, Motivate, Multi-Cultural, Multi-Tasking, Negotiating, Note Taking, Opportunities, Optimistic, Organizational Communication, Outstanding Leadership, Partnership Skills, Passion, Passionate, Patient, Performance Driven, Perspective, Positive Attitude, Proactive, Proactively, Problem Solver, Problem Solving Skills, Professional Services, Proven Track Record, Provide Guidance, Public Relations, Public Speaking, Qualitative, Quantitative, Relationship Development, Reliable, Resolving Issues, Responsive, Results Driven, Role Model, Self-Motivated, Smart, Sound Judgment, Strategic Thinking, Strong Organizational Skills, Subject Matter Expert, Team Building, Team Leadership, Vendor & Client Relations, Resourceful, Talent Development, Team Coaching, Team Management, Team Oriented, Teamwork, Tenacity, Time Management, Tight Deadlines, Trust Builder, Understand, Values, Vendor Relations, Verbal Communication Skills, Vice President Thinking, Work Independently, Work Under Pressure, Works Collaboratively, Written Communication
