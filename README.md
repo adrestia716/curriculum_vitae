@@ -7,7 +7,7 @@ Strategic, results-oriented leader with experience in delivering data-driven, in
 
 ### Contact Information
 
-[Email](mailto:amandamtroutman@gmail.com) | [Website](https://www.managedbyAmanda.tech) | [LinkedIn](https://www.linkedin.com/in/amandamtroutman/) | [Twitter](https://twitter.com/Makoto1joG) |Loveland, OH 
+[Email](mailto:amandamtroutman@gmail.com) | [Website](https://www.managedbyAmanda.tech) | [LinkedIn](https://www.linkedin.com/in/amandamtroutman/) | [Twitter](https://twitter.com/Makoto1joG) |[Download a PDF Version of this C.V.](https://www.target.com/p/metal-stick-lamp-mini-lamp-threshold/-/A-82063796?preselect=80284020#lnk=sametab) |Loveland, OH 
 
 # Digital Transformations Delivered
 
