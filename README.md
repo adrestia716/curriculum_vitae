@@ -38,7 +38,7 @@ CSPO, Scrum Alliance, Jun 2017
 
 **Technical Project Manager III**
 
-Provided leadership and direction to project management initiatives. Led EMR integration with native, homegrown solution. Implemented software updates to support cutting edge science algorithms. Served on the new building design committee and Young Professionals Group as Professional Development VP. 
+Provided leadership and direction to project management initiatives. Led EMR integration with native, homegrown solutions. Implemented software updates to support cutting edge science algorithms. Served on the new building design committee and Young Professionals Group as Professional Development VP. 
 
 ### Key Achievements
 
