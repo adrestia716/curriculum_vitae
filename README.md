@@ -35,7 +35,9 @@ CSPO, Scrum Alliance, Jun 2017
 ## Myriad Genetics - Mason, Ohio - Jul 2015-Oct 2021
 
 *Founded in 1991, Myriad Genetics, Inc., a molecular diagnostic company, develops and markets predictive, personalized, and prognostic medicine tests in the United States and internationally.*
+
 **Technical Project Manager III**
+
 Provided leadership and direction to project management initiatives. Led EMR integration with native, homegrown solution. Implemented software updates to support cutting edge science algorithms. Served on the new building design committee and Young Professionals Group as Professional Development VP. 
 
 ### Key Achievements
@@ -53,6 +55,7 @@ Provided leadership and direction to project management initiatives. Led EMR int
 ## Tradeglobal - Cincinnati, Ohio -	Apr 2015-Jul 2015
 
 * Global eCommerce solutions: Frontend Integration, Omnichannel-Fulfillment and -IT-solutions, Digital Marketing, global shipping software*
+* 
 **Business Analyst**
 Managed Client enhancements and projects. Wrote Statements of Work (SOW) for product development.  Developed a New Hire Onboarding strategy.  Executed array of marketing strategy, branding, and positioning of Aioma’s content marketing software. Focused on content marketing, lead generation, and performance marketing KPIs.  Management of technology stack while collaborating with in-house product development. Supported the Sales and Customer Success team in developing and optimizing processes and templates. 
 
@@ -63,6 +66,7 @@ Charged with accountability for managing externa client enhancements and project
 ## Realpage, Inc. – Mason, Ohio -	Apr 2011-Apr 2015
 
 *Founded in 2013, RealPage, Inc. provides products and services to the multifamily real estate industries. The Company offers applicant screening, accounting, budgeting, property management, and compliance reporting solutions. RealPage also develops and delivers proprietary web-based applications that enhance client information management capabilities.*
+
 **Test Engineer III**
 Performed testing on features and architecture changes. Partnered with project management team to prioritize work.  ScrumMaster for Agile team and drove Agile Stand-Up meetings.  
 Provided 24/7 support in IT, enterprise software, and revenue cycle services for over 30 clients in multiple states. Served as next level escalation point for clients, account managers, and project managers.  Drove enterprise software sales projects across Sales, Marketing, Operations, Account Executives, Training, Leadership, and Executive teams. Optimized pre- and post-sales using metrics, follow up, and change management process to up-sell, product adoption, exceed customer expectations, and build retention.  Frequently served as interim COO and worked with Chief Executive Officer. Set inspirational vision and established clear objectives, corporate development, strategic partnerships, goals, and milestones for company strategy. Led, coached, and mentored 14 direct reports and 21 indirect reports in multiple states. 
