@@ -7,7 +7,7 @@ Strategic, results-oriented leader with experience in delivering data-driven, in
 
 ### Contact Information
 
-[Email](mailto:amandamtroutman@gmail.com) | [Website](https://www.managedbyAmanda.tech) | [LinkedIn](https://www.linkedin.com/in/amandamtroutman/) | [Twitter](https://twitter.com/Makoto1joG) |[Download a PDF Version of this C.V.](https://drive.google.com/file/d/1TfkqhwtV0xo03OKmmGc9Nro5wtyUSswx/view?usp=sharing) |Loveland, OH 
+[Email](mailto:amandamtroutman@gmail.com) | [Website](https://www.managedbyAmanda.tech) | [LinkedIn](https://www.linkedin.com/in/amandamtroutman/) | [Twitter](https://twitter.com/Makoto1joG) |[Download a PDF Version of this C.V.](https://drive.google.com/file/d/18JnXUy51Bq1lRuIT0PxfAP5_d7z6Whsk/view?usp=sharing) |Loveland, OH 
 
 # Digital Transformations Delivered
 
