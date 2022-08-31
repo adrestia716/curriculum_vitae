@@ -32,7 +32,7 @@ CSPO, Scrum Alliance, Jun 2017
 
 # Work History
 
-##Clearsense - Jacksonville, Florida (REMOTE) - December 2021-April 2022
+## Clearsense - Jacksonville, Florida (REMOTE) - December 2021-April 2022
 *Clearsense is a data platform for healthcare that enables real-time insights into clinical, operational, and financial metrics*
 
 **Application Manager***
