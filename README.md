@@ -1,5 +1,5 @@
 
-# Amanda Troutman
+# Amanda Pendraegyn
 
 ## Software of exceptional quality is my passion. I help talented teams get the right solution delivered the right way. 
 
@@ -7,7 +7,7 @@ Strategic, results-oriented leader with experience in delivering data-driven, in
 
 ### Contact Information
 
-[Email](mailto:amandamtroutman@gmail.com) | [Website](https://www.managedbyAmanda.tech) | [LinkedIn](https://www.linkedin.com/in/amandamtroutman/) | [Twitter](https://twitter.com/Makoto1joG) |[Download a PDF Version of this C.V.](https://drive.google.com/file/d/1sO9mCgzk9guCNQ_noL9IDOTGxUlf5jps/view?usp=sharing) |Cincinnati, OH 
+[Email](mailto:amandamtroutman@gmail.com) | [Website](https://www.managedbyAmanda.tech) | [LinkedIn](https://www.linkedin.com/in/amandamtroutman/) | [Twitter](https://twitter.com/Makoto1joG) |[Download a PDF Version of this C.V.](https://drive.google.com/file/d/1qo6jGeSuQkxUvwqV_71M4BvZjDDPvu9B/view?usp=sharing) |Cincinnati, OH 
 
 # Digital Transformations Delivered
 
@@ -31,6 +31,16 @@ Bachelor of Applied Science (BA) in Japanese and International Economics (w/ 4 m
 CSPO, Scrum Alliance, Jun 2017
 
 # Work History
+
+## Munich ReInsurance (via Wavestone) - Munich, GE (Remote) - January 2023 - Current
+*Munich Re Group or Munich Reinsurance Company is a German multinational insurance company based in Munich, Germany and is the world's largest reinsurer.*
+** Data Center Transformation US Business Solutions Manager**
+Work on a project which involved a large-scale server transformation, migrating over 1200 physical servers across the United States to cloud-based solutions (AWS and VCF).
+### Key Achievements
+- Established and maintained effective communication and collaboration with geographically dispersed teams in London, Munich, Noita (India), and across the US. This ensured seamless coordination and efficient execution of the migration process.
+- Developed a comprehensive project plan, including clear timelines, milestones, and resource allocation. Implemented project metrics to track progress and identify potential risks. Regularly communicated project status and budget updates to upper management through weekly reports. 
+- Leveraged in-depth knowledge of cloud migration methodologies (AWS & VCF) and physical server infrastructure to ensure a smooth transition. This included identifying dependencies, developing migration strategies, and overseeing the technical execution. 
+
 
 ## Clearsense - Jacksonville, Florida (REMOTE) - December 2021-April 2022
 *Clearsense is a data platform for healthcare that enables real-time insights into clinical, operational, and financial metrics*
